@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nathanjd/bar": ""
+    "@nathanjd/bar": "1.0.2"
   },
   "peerDependencies": {
     "@nathanjd/globals": ""
